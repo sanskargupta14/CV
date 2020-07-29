@@ -1,0 +1,46 @@
+.container-main {
+background: url(sanskar-02.jpeg);
+height: 100%;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+position: relative;
+}
+.navigation{
+  margin-top: 25px;
+  float: right;
+  justify-content: space-between;
+}
+.navigation a{
+  text-decoration: none;
+  color: #777;
+  font-size: 25px;
+  font-family: 'Trebuchet MS';
+  padding: 25px;
+
+}
+.navigation a:hover{
+  color: powderblue;
+
+}
+.container-01 h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Lucida Console' ;
+  color: beige;
+letter-spacing: 3px;
+}
+.container-01 p{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Lucida Console' ;
+  color: beige;
+
+}
+.hor hr{
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+}

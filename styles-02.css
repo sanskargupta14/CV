@@ -1,0 +1,86 @@
+body{
+  background: #eee;
+  }
+  .navigation{
+  margin-top: 25px;
+  float: right;
+  justify-content: space-between;
+}
+.navigation a{
+  text-decoration: none;
+  color: #4cd3c2;
+  font-size: 25px;
+  font-family: 'Trebuchet MS';
+  padding: 25px;
+
+}
+.navigation a:hover{
+  color:#fbd46d;
+
+}
+.image-01
+{
+  display: block;
+  height: 30%;
+  width: 30%;
+  float: left;
+  padding-left: 2%;
+  padding-bottom: 2%;
+}
+.basic-info{
+  padding: 2%;
+  color:  #0a97b0;
+  font-family: 'Trebuchet MS';
+}
+.basic-info h1{
+  font-size: 250%;
+}
+.basic-info p{
+  font-size: 120%;
+}
+.basic-info {
+background-color: #dce5eb;
+margin-top:2%;
+margin-right: 5%;
+margin-left: 2%;
+}
+.info-further {
+  font-size: 90%;
+}
+h2{
+  text-decoration: underline;
+  color: #2228;
+}
+.info-further-01 table {
+  width: 50%;
+  height: 10px;
+}
+.info-further-02 table {
+  width: 50%;
+  height: 10px;
+}
+.heading-name {
+  color: #2228;
+}
+.skillsets ul {
+list-style-type: armenian;
+}
+.hor hr{
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+}
+.images-03 {
+  display: flex;
+  justify-content: space-between;
+  height: 2%;
+  width: 2%;
+  float: left;
+  padding-right: 0px;
+  padding-left: 2%;
+}
+.images-03:hover{
+opacity: 0.7;
+}
